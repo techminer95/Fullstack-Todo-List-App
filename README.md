@@ -15,8 +15,6 @@ This project is a Full Stack Todo List Application which is built using the Mong
 -  Users can Check the count of remaining tasks, Complete all tasks together, Delete all completed tasks together.
 -  Users can View All, Incomplete, Completed Tasks.
 -  Users can mark Due Date & Priority Levels for the Tasks.
-   <br/>
-   <br/>
 
 ## 🔥 Getting Started With The Project
 
@@ -38,8 +36,6 @@ This project is a Full Stack Todo List Application which is built using the Mong
 -  Enjoy :)
 
 For any issues related to the project, raise an ISSUE in the respective Repository.
-<br/>
-<br/>
 
 ## 🔨 Tools Used
 
@@ -69,8 +65,6 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 -  Front-End: HTML, CSS, EJS
 -  Runtime Environment: NodeJS
 -  Integrated Development Environment: VSCode
-   <br/>
-   <br/>
 
 ## 🔗 Links
 
@@ -78,13 +72,6 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 >
 > ## Checkout the Application Demo Video [YouTube](https://youtu.be/2VyxSQAE5mo)
 
-<br/>
-
-## 💻 Screens
-
-<p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/185441736-3de3ccec-045d-42b2-9533-b786fdf12e02.png">
-</p>
 <br/>
 
 ## 🐦 Follow Me:
